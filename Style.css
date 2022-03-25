@@ -1,0 +1,28 @@
+*{
+    background-color: black;
+    
+}
+h1{
+   color: aqua;
+   font-size: 50px;
+   font-family: 'Times New Roman';
+   text-align: center;
+}
+p{
+
+    color: aquamarine;
+    font-family: 60px;
+    
+    text-align: center;
+}
+.clock{
+    position: absolute;
+    top:50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+  font-size: 40px;
+letter-spacing: 5px;
+color: rgb(31, 245, 31);
+font-family: 'Gill Sans';
+
+}
