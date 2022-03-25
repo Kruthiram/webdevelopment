@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+    <head>
+         <link href="StyleSheet.css" rel="stylesheet" type="text/css">
+    </head>
+    <body>
+        <center>
+            <h1>Pink Frag Event Organizer</h1><br>
+        </center>
+        <table width="100%">
+            <tr>
+                <td width="20%">
+                    <a id="home1" href="index.html">Home</a><br>
+                    <a id="events" href="events.html">Events</a><br>
+                    <a id="aboutUs" class="index" name="index1" href="aboutUs.html">About us</a><br>
+                    <a id="contactus" href="contactUs.html">Contact Us</a>
+                </td>
+                <td width="80%" style="display: inline-block;margin-top: -20px;">
+                	<h2>About Us</h2>
+                	<p>Pink Frag Event is a reputed organization, 
+		            which has come into being in 2009, as a Sole Proprietorship
+		            Firm, with a sole aim of achieving the trust and support of 
+		            large customers. We have indulged our all endeavors towards 
+		            offering trustworthy Wedding Event Management, Promotional
+		            Event Management, Birthday Party Management and many more. 
+		            To offer these services, we have hired specialized professionals, who are 
+		            capable of understanding as well as accomplishing the specific 
+		            customers’ desires.</p>
+                </td>
+            </tr>
+        </table>
+    </body>
+</html>
